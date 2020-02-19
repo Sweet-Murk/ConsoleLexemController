@@ -1,0 +1,13 @@
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\dima\Desktop\test\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\dima\Desktop\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
